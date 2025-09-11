@@ -16,4 +16,4 @@ layout: default
 
 
 
-IN CONSTRUCTION; REST OF TEMPATE [HERE](./template.html)
+IN CONSTRUCTION; REST OF TEMPLATE [HERE](./template.html)
