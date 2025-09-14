@@ -19,8 +19,11 @@ layout: default
 IN CONSTRUCTION; REST OF TEMPLATE [HERE](./template.html)
 
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 
 TO-DO:
@@ -36,4 +39,4 @@ TO-DO:
 - define "Board of Directors" i.e. founding staff/members of IBV
 - look into [this advice](https://www.oflaherty-law.com/learn-about-law/how-do-i-register-a-non-profit-organization-in-iowa) for registering a non-profit org
 - find more things to put on this to-do list
-- always be fully transparent
+- stay fully transparent
