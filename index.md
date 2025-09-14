@@ -4,7 +4,7 @@ layout: default
 
 # Iowans for Better Voting
 
-### Hello! Here in Iowa, we need:
+<u>**Hello! Here in Iowa, we need:**<u/>
 - better Voting Systems
 - better Candidates
 - better Candidate Information
@@ -12,7 +12,7 @@ layout: default
 - better Ballots
 - i.e... **BETTER VOTING!**
 
-### This association exists to collect ideas and show that there are people who believe in them!
+**This association exists to collect ideas and show that there are people who believe in them!**
 
 &nbsp;
 
