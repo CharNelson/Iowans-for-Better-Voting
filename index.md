@@ -16,11 +16,11 @@ layout: default
 
 &nbsp;
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe2U0Ew9EwVOogJFY1_ngUW0jdNig1kDlDljEmkdbOD_r3QnQ/viewform?embedded=true" width="640" height="1000" frameborder="10" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe2U0Ew9EwVOogJFY1_ngUW0jdNig1kDlDljEmkdbOD_r3QnQ/viewform?embedded=true" width="640" height="500" frameborder="25" marginheight="0" marginwidth="0">Loading…</iframe>
 
 &nbsp;
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRN61doLZ_gjRklYHV8PVkwMD9pmm5hqLeimcR1AVdeJc-bb7zoakjA7BWRUnbXqMjcgc6ISuK3Hh3_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="1000" ></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRN61doLZ_gjRklYHV8PVkwMD9pmm5hqLeimcR1AVdeJc-bb7zoakjA7BWRUnbXqMjcgc6ISuK3Hh3_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="450" ></iframe>
 
 &nbsp;
 
