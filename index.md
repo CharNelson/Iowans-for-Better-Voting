@@ -4,7 +4,7 @@ layout: default
 
 # Iowans for Better Voting
 
-<u>**Hello! Here in Iowa, we need:**<u/>
+<u><strong>Hello! Here in Iowa, we need:<strong/><u/>
 - better Voting Systems
 - better Candidates
 - better Candidate Information
