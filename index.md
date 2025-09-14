@@ -16,6 +16,18 @@ layout: default
 
 &nbsp;
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe2U0Ew9EwVOogJFY1_ngUW0jdNig1kDlDljEmkdbOD_r3QnQ/viewform?embedded=true" width="640" height="1618" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+&nbsp;
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRN61doLZ_gjRklYHV8PVkwMD9pmm5hqLeimcR1AVdeJc-bb7zoakjA7BWRUnbXqMjcgc6ISuK3Hh3_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 IN CONSTRUCTION; REST OF TEMPLATE [HERE](./template.html)
 
 &nbsp;
