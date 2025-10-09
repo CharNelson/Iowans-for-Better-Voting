@@ -4,7 +4,11 @@ layout: default
 
 # Iowans for Better Voting
 
-<u><strong>Here in Iowa, we need:<strong/><u/>
+<u><strong>The government is not representing us.<strong/><u/>
+
+WE NEED RANK CHOICE VOTING
+
+Lets shift that [Overton Window](https://en.wikipedia.org/wiki/Overton_window) with
 - better Voting Systems
 - better Candidates
 - better Candidate Information
@@ -28,16 +32,15 @@ layout: default
 
 &nbsp;
 
-&nbsp;
-
 SITE IN CONSTRUCTION; REST OF TEMPLATE [HERE](./template.html)
-
 &nbsp;
-
-&nbsp;
-
-&nbsp;
-
 SITE CONSTRUCTION TO-DO LIST [HERE](./todo.html)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 
 &nbsp;
