@@ -25,8 +25,12 @@ Lets shift the Overton Window with
 
 &nbsp;
 
+**MEMBERS**  ――  [external](https://docs.google.com/spreadsheets/d/e/2PACX-1vRLenXdFBrtJ7z1i1gq-9ZxF1n2Zk6QOItnrdZyN479xvrw9RUTJ7nxIFcvVYiAN0n3PM141_4mT3Ju/pubhtml?gid=0&single=true)
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLenXdFBrtJ7z1i1gq-9ZxF1n2Zk6QOItnrdZyN479xvrw9RUTJ7nxIFcvVYiAN0n3PM141_4mT3Ju/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 &nbsp;
 
+&nbsp;
 
 **General Poll**  ――  [external](https://forms.gle/Hmu6SDY3m8cbSjLq7)
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe2U0Ew9EwVOogJFY1_ngUW0jdNig1kDlDljEmkdbOD_r3QnQ/viewform?embedded=true" width="640" height="500" frameborder="25" marginheight="0" marginwidth="0">Loading…</iframe>
