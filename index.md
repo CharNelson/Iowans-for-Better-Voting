@@ -43,7 +43,9 @@ Lets shift the Overton Window with
 &nbsp;
 
 SITE IN CONSTRUCTION; REST OF TEMPLATE [HERE](./template.html)
+
 &nbsp;
+
 SITE CONSTRUCTION TO-DO LIST [HERE](./todo.html)
 
 &nbsp;
