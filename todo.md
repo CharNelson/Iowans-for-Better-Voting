@@ -9,11 +9,13 @@ TO-DO:
     - like I'm imagining this would hold PDFs of proposals/petitions to local govt for ranked choice voting, etc
     - would also include a "Completed" category ofc
   - set up meter at bottom of screen showing funding, i.e. reach this & we can keep this site online with custom domain (assuming thatll cost us (yep)), reach this & we can apply for whatever applications have costs attached to em, etc
-- make more Google Forms for folks to fill out
+- DATA IN & DATA OUT
+  - make more Google Forms for folks to fill out
+    - ~~create membership form!~~
   - would be nice to be able to have a link from Google Form immediately to resulting data; could insert that manually into "Your submission has been received" message 
   - perhaps this input/output stuff needs its own page(s) idk
     - embeds are nice & cool but they take up more space than just line after line of hyperlinks but also the latter sounds daunting
-  - make sure to not use Google Forms for sensitive info tho; folks can apparently perhaps get into full Google Sheet from just embedded data view; already not collecting emails but like yknow
+  - make sure to not use Google Forms for sensitive info tho; folks can apparently perhaps get into full Google Sheet from just embedded data view; already not collecting emails unless freely given but like yknow
 - define Tenets
 - define "Board of Directors" i.e. founding staff/members of IBV
 - look into [this advice](https://www.oflaherty-law.com/learn-about-law/how-do-i-register-a-non-profit-organization-in-iowa) for registering a non-profit org
