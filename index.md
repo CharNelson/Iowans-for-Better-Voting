@@ -25,25 +25,27 @@ Lets shift the Overton Window with
 
 &nbsp;
 
-**MEMBERSHIP FORM**  ――  [external](https://forms.gle/6xZDDjGYaV9RFb6p8)
+### **MEMBERS**  ――  ([external link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRLenXdFBrtJ7z1i1gq-9ZxF1n2Zk6QOItnrdZyN479xvrw9RUTJ7nxIFcvVYiAN0n3PM141_4mT3Ju/pubhtml?gid=0&single=true))
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLenXdFBrtJ7z1i1gq-9ZxF1n2Zk6QOItnrdZyN479xvrw9RUTJ7nxIFcvVYiAN0n3PM141_4mT3Ju/pubhtml?gid=0&amp;" widget=false headers=false chrome=false width="640" height="500" ></iframe>
+
+&nbsp;
+
+**MEMBERSHIP FORM**  ――  ([external link](https://forms.gle/6xZDDjGYaV9RFb6p8))
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfr2pNwx_qICO3Kso2Iw7nC1PRp7n9NQ5Lve6mV1Gb5EBwT-w/viewform?embedded=true" width="640" height="500" frameborder="25" marginheight="0" marginwidth="0">Loading…</iframe>
 
 &nbsp;
 
-**MEMBERS**  ――  [external](https://docs.google.com/spreadsheets/d/e/2PACX-1vRLenXdFBrtJ7z1i1gq-9ZxF1n2Zk6QOItnrdZyN479xvrw9RUTJ7nxIFcvVYiAN0n3PM141_4mT3Ju/pubhtml?gid=0&single=true)
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLenXdFBrtJ7z1i1gq-9ZxF1n2Zk6QOItnrdZyN479xvrw9RUTJ7nxIFcvVYiAN0n3PM141_4mT3Ju/pubhtml?gid=0&amp;" width="640" height="500" ></iframe>
-
 &nbsp;
 
 &nbsp;
 
-**General Poll**  ――  [external](https://forms.gle/Hmu6SDY3m8cbSjLq7)
+**General Poll**  ――  ([external link](https://forms.gle/Hmu6SDY3m8cbSjLq7))
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe2U0Ew9EwVOogJFY1_ngUW0jdNig1kDlDljEmkdbOD_r3QnQ/viewform?embedded=true" width="640" height="500" frameborder="25" marginheight="0" marginwidth="0">Loading…</iframe>
 
 &nbsp;
 
-**General Poll: Responses**  ――  [external](https://docs.google.com/spreadsheets/d/e/2PACX-1vRN61doLZ_gjRklYHV8PVkwMD9pmm5hqLeimcR1AVdeJc-bb7zoakjA7BWRUnbXqMjcgc6ISuK3Hh3_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false)
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRN61doLZ_gjRklYHV8PVkwMD9pmm5hqLeimcR1AVdeJc-bb7zoakjA7BWRUnbXqMjcgc6ISuK3Hh3_/pubhtml?gid=0&amp" width="640" height="500" ></iframe>
+**General Poll: Responses**  ――  ([external link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRN61doLZ_gjRklYHV8PVkwMD9pmm5hqLeimcR1AVdeJc-bb7zoakjA7BWRUnbXqMjcgc6ISuK3Hh3_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false))
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRN61doLZ_gjRklYHV8PVkwMD9pmm5hqLeimcR1AVdeJc-bb7zoakjA7BWRUnbXqMjcgc6ISuK3Hh3_/pubhtml?gid=0&amp" widget=false headers=false chrome=false width="640" height="500" ></iframe>
 
 &nbsp;
 
@@ -56,10 +58,6 @@ SITE IN CONSTRUCTION; REST OF TEMPLATE [HERE](./template.md)
 &nbsp;
 
 SITE CONSTRUCTION TO-DO LIST [HERE](./todo.html)
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
