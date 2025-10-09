@@ -8,7 +8,7 @@ layout: default
 
 WE NEED RANK CHOICE VOTING
 
-Lets shift the [Overton Window](https://en.wikipedia.org/wiki/Overton_window) with
+Lets shift the Overton Window with
 - better Voting Systems
 - better Candidates
 - better Candidate Information
@@ -54,3 +54,4 @@ SITE CONSTRUCTION TO-DO LIST [HERE](./todo.html)
 
 
 &nbsp;
+
