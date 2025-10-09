@@ -50,7 +50,7 @@ Lets shift the Overton Window with
 
 &nbsp;
 
-SITE IN CONSTRUCTION; REST OF TEMPLATE [HERE](./template.html)
+SITE IN CONSTRUCTION; REST OF TEMPLATE [HERE](./template.md)
 
 &nbsp;
 
