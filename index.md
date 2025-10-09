@@ -6,7 +6,11 @@ layout: default
 
 <u><strong>The government is not representing us.<strong/><u/>
 
-WE NEED RANK CHOICE VOTING
+...so, WE NEED RANK CHOICE VOTING!
+
+
+**This association exists to help our collective views directly affect our local leaders!**
+
 
 Lets shift the Overton Window with
 - better Voting Systems
@@ -16,7 +20,7 @@ Lets shift the Overton Window with
 - better Ballots
 - i.e... **BETTER VOTING!**
 
-**This association exists to collect ideas and show that there are people who believe in them!**
+&nbsp;
 
 &nbsp;
 
@@ -26,7 +30,7 @@ Lets shift the Overton Window with
 &nbsp;
 
 **MEMBERS**  ――  [external](https://docs.google.com/spreadsheets/d/e/2PACX-1vRLenXdFBrtJ7z1i1gq-9ZxF1n2Zk6QOItnrdZyN479xvrw9RUTJ7nxIFcvVYiAN0n3PM141_4mT3Ju/pubhtml?gid=0&single=true)
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLenXdFBrtJ7z1i1gq-9ZxF1n2Zk6QOItnrdZyN479xvrw9RUTJ7nxIFcvVYiAN0n3PM141_4mT3Ju/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="500" ></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLenXdFBrtJ7z1i1gq-9ZxF1n2Zk6QOItnrdZyN479xvrw9RUTJ7nxIFcvVYiAN0n3PM141_4mT3Ju/pubhtml?gid=0&amp;single=false&amp;" width="640" height="500" ></iframe>
 
 &nbsp;
 
@@ -38,7 +42,7 @@ Lets shift the Overton Window with
 &nbsp;
 
 **General Poll: Responses**  ――  [external](https://docs.google.com/spreadsheets/d/e/2PACX-1vRN61doLZ_gjRklYHV8PVkwMD9pmm5hqLeimcR1AVdeJc-bb7zoakjA7BWRUnbXqMjcgc6ISuK3Hh3_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false)
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRN61doLZ_gjRklYHV8PVkwMD9pmm5hqLeimcR1AVdeJc-bb7zoakjA7BWRUnbXqMjcgc6ISuK3Hh3_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="500" ></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRN61doLZ_gjRklYHV8PVkwMD9pmm5hqLeimcR1AVdeJc-bb7zoakjA7BWRUnbXqMjcgc6ISuK3Hh3_/pubhtml?gid=0&amp;single=true&amp;chrome=true&amp;headers=false" width="640" height="500" ></iframe>
 
 &nbsp;
 
