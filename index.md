@@ -8,6 +8,7 @@ layout: default
 
 ...so, WE NEED RANK CHOICE VOTING!
 
+&nbsp;
 
 **This association exists to help our collective views directly affect our local leaders!**
 
