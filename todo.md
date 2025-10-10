@@ -9,6 +9,10 @@ TO-DO:
     - like I'm imagining this would hold PDFs of proposals/petitions to local govt for ranked choice voting, etc
     - would also include a "Completed" category ofc
   - set up meter at bottom of screen showing funding, i.e. reach this & we can keep this site online with custom domain (assuming thatll cost us (yep)), reach this & we can apply for whatever applications have costs attached to em, etc
+  - Analytics ?
+    - https://webapps.stackexchange.com/questions/103618/analytics-on-github-pages
+    - https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/
+    - https://www.geeksforgeeks.org/git/how-to-add-google-analytics-to-github-pages/
 - DATA IN & DATA OUT
   - make more Google Forms for folks to fill out
     - ~~create membership form!~~
