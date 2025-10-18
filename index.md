@@ -25,9 +25,12 @@ Lets shift the Overton Window with
 
 &nbsp;
 
-## NOTICE: NO KINGS RALLY SATURDAY OCT 18TH ― BE THERE!!!
+## FIRST ON THE DOCKET: REPEAL HOUSE FILE 954!
 
 &nbsp;
+[House File 954](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF%20954) pre-emptively and EXPLICITLY bans Rank Choice Voting, and it was signed into law by Governor Kim Reynolds in June 2025.
+
+## ALSO ON THE DOCKET: GET MORE MEMBERS!
 
 &nbsp;
 
