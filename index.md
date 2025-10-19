@@ -27,7 +27,17 @@ Lets shift the Overton Window with
 
 ## FIRST ON THE DOCKET: REPEAL HOUSE FILE 954!
 
-[House File 954](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF%20954) pre-emptively and EXPLICITLY bans Rank Choice Voting by name, and it was signed into law by Governor Kim Reynolds in June 2025. Since she ain't running for re-election, we have the chance to elect a governor who'll actually be in favor of the people & let HF954 be repealed. What we'll also need is the support of the Iowa state legislators, whom you can find [here](https://www.legis.iowa.gov/legislators/find) by simply typing in your zip code.
+- [House File 954](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF%20954)
+   - HF954 pre-emptively and EXPLICITLY bans Rank Choice Voting by name
+   - signed into law by Governor Kim Reynolds in June 2025.
+- Iowa Governor
+   - Since Kim Reynolds ain't running for re-election, we'll have even more of a chance of electing a governor who'll actually be in favor of the people & let HF954 be repealed!
+   - [Rob Sand]([url](https://robsand.com/) (the current State Auditor, and only currently-elected Democrat in the state) seems to be not even just the best choice we've got, but a good one!
+   - Right now, we can [petition to secure Rob Sand's place on the ballot](https://robsand.com/petition/),
+   - and make sure to vote in the gubernatorial primaries JUNE 2ND 2026! (<t:1780401600:R>)
+   - and in the actual gubernatorial election NOVEMBER 3RD 2026 of course! (<t:1793710800:R>)
+- Iowa Congress
+   - What we'll also need is the support of the Iowa state legislators, whom you can find [here](https://www.legis.iowa.gov/legislators/find) by simply typing in your zip code.
 
 #### ALSO ON THE DOCKET: GET MORE MEMBERS!
 
