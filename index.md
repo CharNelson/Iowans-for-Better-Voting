@@ -32,7 +32,7 @@ Lets shift the Overton Window with
    - signed into law by Governor Kim Reynolds in June 2025.
 - Iowa Governor
    - Since Kim Reynolds ain't running for re-election, we'll have even more of a chance of electing a governor who'll actually be in favor of the people & let HF954 be repealed!
-   - [Rob Sand]([url](https://robsand.com/) (the current State Auditor, and only currently-elected Democrat in the state) seems to be not even just the best choice we've got, but a good one!
+   - [Rob Sand](https://robsand.com/) (the current State Auditor, and only currently-elected Democrat in the state) seems to be not even just the best choice we've got, but a good one!
    - Right now, we can [petition to secure Rob Sand's place on the ballot](https://robsand.com/petition/),
    - and make sure to vote in the gubernatorial primaries JUNE 2ND 2026! (<t:1780401600:R>)
    - and in the actual gubernatorial election NOVEMBER 3RD 2026 of course! (<t:1793710800:R>)
