@@ -34,8 +34,8 @@ Lets shift the Overton Window with
    - Since Kim Reynolds ain't running for re-election, we'll have even more of a chance of electing a governor who'll actually be in favor of the people & let HF954 be repealed!
    - [Rob Sand](https://robsand.com/) (the current State Auditor, and only currently-elected Democrat in the state) seems to be not even just the best choice we've got, but a good one!
    - Right now, we can [petition to secure Rob Sand's place on the ballot](https://robsand.com/petition/),
-   - and make sure to vote in the gubernatorial primaries JUNE 2ND 2026! (<t:1780401600:R>)
-   - and in the actual gubernatorial election NOVEMBER 3RD 2026 of course! (<t:1793710800:R>)
+   - and make sure to vote in the gubernatorial primaries JUNE 2ND 2026!
+   - and in the actual gubernatorial election NOVEMBER 3RD 2026 of course!
 - Iowa Congress
    - What we'll also need is the support of the Iowa state legislators, whom you can find [here](https://www.legis.iowa.gov/legislators/find) by simply typing in your zip code.
 
